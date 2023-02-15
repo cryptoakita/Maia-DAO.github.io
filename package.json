@@ -14,7 +14,7 @@
   "dependencies": {
     "@algolia/autocomplete-preset-algolia": "^1.1.0",
     "@algolia/client-search": "^4.9.1",
-    "@babel/core": "^7.14.6",
+    "@babel/core": "^7.20.12",
     "@docusaurus/core": "^2.2.0",
     "@docusaurus/plugin-content-docs": "^2.2.0",
     "@docusaurus/preset-classic": "^2.2.0",
